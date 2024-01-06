@@ -2,4 +2,26 @@ div{
     background-color: pink;
     margin:10px;
     padding:10px;
+    border-radius: 2px;
+    border-color: black;
+
+}
+.ns{
+    color: red;
+}
+nav > ul > li {
+    display:inline;
+    /* text-decoration: none; */
+    margin-right: 15px;
+    border-radius: 10px;
+    padding: 10px;
+    border-color: brown 10px;
+}
+nav li > a{
+    text-decoration: red;
+}
+footer{
+    text-align: center;
+    text-align: 30px;
+    color:red;
 }
